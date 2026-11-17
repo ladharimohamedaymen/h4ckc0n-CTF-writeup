@@ -1,0 +1,7 @@
+# challenge artifacts are not redistributed
+*.pt
+*.zip
+*.bin
+encoder.json
+out/
+__pycache__/
